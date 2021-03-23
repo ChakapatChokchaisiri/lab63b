@@ -27,7 +27,9 @@
 
 ## การบันทึกผลการทดลอง
 
-หน้าต่าง output ของ code ขึ้นคำว่า read ส่วน microcontroller หากเรานำสายไฟจิ้มไปที่ port 0 LED จะมีไฟติด และเมื่อเอาสายไฟออก LED จะดับ
+หน้าต่าง output ของ code ขึ้นคำว่า read 1 ขณะที่ microcontroller มีไฟดับ
+
+แต่เมื่อนำสายไฟไปจิ้มที่ port 0 หรือกดปุ่ม upload output ของ code ขึ้นคำว่า read 0 และ LED ที่ microcontroller จะมีไฟติด
 
 ## อภิปรายผลการทดลอง
 
