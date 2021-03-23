@@ -17,7 +17,7 @@
 ## วิธีการทำการทดลอง
 
 1.เชื่อมต่อ microcontrollerกับคอมพิวเตอร์ โดยการต่อUSBเพื่อไปยังserial และต่อserialเข้ากับmicrocontroller
-![image](https://ibb.co/6ZSN4dC.jpg)
+![image](https://user-images.githubusercontent.com/80879398/112186915-2ad93c80-8c34-11eb-8d63-ce7d62689ecb.jpg)
 
 2.เปิดหน้าต่าง cmd และใช้คำสั่ง _cd (ชื่อโฟล์เดอร์ที่มีโปรแกรม)_
 
