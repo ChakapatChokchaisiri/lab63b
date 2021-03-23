@@ -18,15 +18,23 @@
 
 2.ใช้คำสั่ง _1s_ และ _pwd_ ตามลำดับ
 
+![image](https://user-images.githubusercontent.com/80879398/112193392-6d9e1300-8c3a-11eb-8fd7-37d6bef9156b.png)
+
 3.ใช้คำสั่ง _vi src/main.cpp_ และวิเคราะห์การทำงานของโค้ด
 
+![image](https://user-images.githubusercontent.com/80879398/112193397-6ecf4000-8c3a-11eb-9487-87e288da6bef.png)
+
 4.ใช้คำสั่ง _pio run -t uplaod_ เพื่อให้โปรแกรมถูก upload เข้าไป
+
+![image](https://user-images.githubusercontent.com/80879398/112193399-6f67d680-8c3a-11eb-8aeb-c9aac3350b0b.png)
 
 5.กดปุ่ม upload ค้างไว้ และกดปุ่ม reset ที่ microcontroller
 
 6.รอโปรแกรมถูก upload จนเสร็จสิ้น
 
 7.ใช้คำสั่ง _pio device monitor_ 
+
+![image](https://user-images.githubusercontent.com/80879398/112193404-70006d00-8c3a-11eb-9224-229ac0dcb13e.png)
 
 8.สังเกตผลที่ได้จากการทดลอง
 
