@@ -23,10 +23,13 @@
 
 3.ใช้คำสั่ง _cd 01_Serial-Monitor_ ตามด้วย _visrc/main_ เพื่อดูและศึกษาโค้ดตัวอย่างโปรแกรมที่ใช้ทดสอบ microcontroller
 ![image](https://user-images.githubusercontent.com/80879398/112188711-cdde8600-8c35-11eb-963c-e86526177449.png)
+
 4.ใช้คำสั่ง _vi platformio.ini_ เพื่อให้ทราบข้อมูลเบื้องต้นเกี่ยว microcontroller ที่นำมาใช้
 ![image](https://user-images.githubusercontent.com/80879398/112188715-ce771c80-8c35-11eb-9838-ebb086789e05.png)
+
 5.ใช้คำสั่ง _pio run -t upload_ เพื่อเริ่ม run microcontroller
 ![image](https://user-images.githubusercontent.com/80879398/112188717-cfa84980-8c35-11eb-8fc7-5f0304fc0698.png)
+
 6.กดปุ่มที่ microcontroller และกดปุ่ม set เพื่อให้microcontroller รับคำสั่งใหม่
 
 7.เมื่อขึ้น success ให้ใช้คำสั่ง _pio device monitor_
