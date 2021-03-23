@@ -10,6 +10,8 @@
 
 ## ศึกษาข้อมูลเบื้องต้น
 
+https://www.youtube.com/watch?v=yBjab0UNuB8
+
 ## วิธีการทำการทดลอง
 
 1.เชื่อมต่อ microcontroller เข้ากับคอมพิวเตอร์โดยใช้ serial port
