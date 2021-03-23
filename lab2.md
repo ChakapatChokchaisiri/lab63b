@@ -12,7 +12,7 @@
 
 ## วิธีการทำการทดลอง
 
-1.เชื่อมต่อ microcontroller เข้ากับคอมพิวเตอร์
+1.เชื่อมต่อ microcontroller เข้ากับคอมพิวเตอร์โดยใช้ serial port
 
 2.เปิด cmd และรันคำสั่ง _1s_ และ _vi src/main.cpp_
 
