@@ -15,6 +15,8 @@
 1.เชื่อมต่อ microcontroller เข้ากับคอมพิวเตอร์โดยใช้ serial port
 
 2.เปิด cmd และรันคำสั่ง _1s_ และ _vi src/main.cpp_
+
+
 ![image](https://user-images.githubusercontent.com/80879398/112192091-3e3ad680-8c39-11eb-8828-70c6cff2d4de.png)
 
 3.ศึกษาการทำงานของโค้ดการค้นหา wifi
