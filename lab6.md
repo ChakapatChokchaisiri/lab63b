@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=T26DVHePlTs
 
 มี wifi เกิดขึ้นในการค้นหา wifi ของอุปกณ์รับ wifi ภายในระยะของ microcontroller
 
+![image](https://user-images.githubusercontent.com/80879398/112250613-42441400-8c8c-11eb-9cde-0be4357f91f7.png)
+
 ## อภิปรายผลการทดลอง
 
 จากโค้ดส่วน ssid และ password เป็นการสร้างชื่อและรหัสของ wifi ที่ต้องการจะสร้าง
