@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=T26DVHePlTs
 
 3.ใช้คำสั่ง _vi src/main.cpp_ และศึกษา source code การทำงานของโปรแกรม
 
-![image](https://user-images.githubusercontent.com/80879398/112248780-1bd0a980-8c89-11eb-84ab-de973f2a5d0f.png)
+![image](https://user-images.githubusercontent.com/80879398/112250790-9bac4300-8c8c-11eb-982d-dc61f704be5c.png)
 
 4.อัปโหลดโปรแกรมขึ้นไปบน microcontorller โดยใช้คคำสั่ง _pio run -t upload_
 
