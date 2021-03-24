@@ -25,6 +25,5 @@ https://www.youtube.com/watch?v=VX-QNQcO-b4&t=2s
 ## การบันทึกผลการทดลอง
 
 ## อภิปรายผลการทดลอง
-![image](https://user-images.githubusercontent.com/80879398/112237535-74964700-8c75-11eb-81a9-a11368be6556.png)
 
 ## คำถามหลังการทดลอง
