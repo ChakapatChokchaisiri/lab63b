@@ -14,16 +14,33 @@ https://www.youtube.com/watch?v=VX-QNQcO-b4&t=2s
 ## วิธีการทำการทดลอง
 
 1.เชื่อมต่อ microcontroller เข้ากับคอมพิวเตอร์
+
 2.ป้อนคำสั่ง _pwd_ และ _cd../05_wifi-web-server_ ใน cmd เพื่อเข้าสู้โปรแกรมที่ 5 ของ microcontroller
-![image]
+
 3.ใช้คำสั่ง _vi src/main.cpp_ และศึกษา source code การทำงานของโปรแกรม
-![image]
+
+![image](https://user-images.githubusercontent.com/80879398/112261084-b89d4200-8c9d-11eb-9ad9-8053995db658.png)
+
 4.อัปโหลดโปรแกรมขึ้นไปบน microcontorller โดยใช้คคำสั่ง _pio run -t upload_
+
 5.กดปุ่ม upload ค้างไว้และกดปุ่ม reset ที่ microcontroller ตามลำดับ
-6.
+
+6.เมื่อกดปุ่ม reset โปรแกรมจะเริ่มทำการค้นหาและเชื่อมต่อกับ wifi และมี ip address ขึ้นมา
+
+7.copy ip address นั้นและนำมาวางใน web browser
+
+8.สังเกตผลที่ได้จากการทดลอง
 
 ## การบันทึกผลการทดลอง
 
+web browser มีการขึ้น output Hello 1 และเมื่อ refresh ตัวเลขจะเพิ่มขึ้นไปเรื่อย ๆ ทุกครั้งที่ refresh
+
 ## อภิปรายผลการทดลอง
 
+ในส่วนของโค้ด void setup จะทำการ setup ชื่อและรหัส wifi และในส่วนของ hello count จะทำให้มีการนับครั้งที่มีการเข้าสู่ address นั้น ๆ เพิ่มขึ้นทีละ 1 ไปเรื่อย ๆ
+
 ## คำถามหลังการทดลอง
+
+จงยกตัวอย่างการนับ count เพิ่มขึ้นทุกครั้งที่มีการเข้าสู่เว็บไซต์ที่สามารถพบเห็นได้ในปัจจุบัน
+
+- ยอดวิวคลิปต่าง ๆ ตาม youtube หรือ facebook
