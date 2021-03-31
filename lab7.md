@@ -24,16 +24,26 @@ https://github.com/choompol-boonmee/lab63b/tree/master/examples
 
 3.ศึกษาการทำงานโค้ดพื้นฐานของโปรแกรม
 
-![image](https://user-images.githubusercontent.com/80879398/113159543-df8fe100-9266-11eb-995e-8fe3e1bdc584.png)
+![image](https://user-images.githubusercontent.com/80879398/113161993-14049c80-9269-11eb-839c-576bfaf72fd9.png)
+
+4.ใช้คำสั่ง pio run -t uplaod เพื่อให้โปรแกรมถูก upload เข้าไป
+
+5.กดปุ่ม upload ค้างไว้ และกดปุ่ม reset ที่ microcontroller
+
+6.รอโปรแกรมถูก upload จนเสร็จสิ้น
+
+7.ใช้คำสั่ง pio device monitor
+
+9.นำ microcontroller ไปต่อกับรีเลย์ และเสียบตัวจ่ายไฟเข้ากับรีเลย์
+
+10.สังเกตผลการทดลอง
 
 ## การบันทึกผลการทดลอง
 
+สามารถใช้ microcontroller ในการค้นหา wifi และมีไฟติดขึ้นที่ LED เมื่อมีกาาเชื่อมต่อ wifi และไฟปิดเมื่อไม่ได้เชื่อมต่อ wifi และเมื่อสัญญาณ wifi ไม่เสถียรก็จะมีไฟกระพริบเกิดขึ้นที่ LED
 
+เมื่อเชื่อมต่อสัฐฐาณ wifi ได้แล้วก็จะมีการแสดงผลว่าขณะนี้มีอุปกรณ์กำลังเชื่อมต่อกับสัญญาณ wifi นั้น
 
 ## อภิปรายผลการทดลอง
-
-
-
-## คำถามหลังการทดลอง
 
 
