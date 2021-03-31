@@ -8,9 +8,9 @@
 
 2. คอมพิวเตอร์
 
-3.adaptor ที่มี LED
+3. adaptor ที่มี LED
 
-4.รีเลย์
+4. รีเลย์
 
 ## ศึกษาข้อมูลเบื้องต้น
 
@@ -18,25 +18,25 @@ https://github.com/choompol-boonmee/lab63b/tree/master/examples
 
 ## วิธีการทำการทดลอง
 
-1.เชื่อมต่อ microcontroller เข้ากับคอมพิวเตอร์
+1. เชื่อมต่อ microcontroller เข้ากับคอมพิวเตอร์
 
-2.ใช้คำสั่ง vi src/main.cpp และศึกษา source code การทำงานของโปรแกรม
+2. ใช้คำสั่ง vi src/main.cpp และศึกษา source code การทำงานของโปรแกรม
 
-3.ศึกษาการทำงานโค้ดพื้นฐานของโปรแกรม
+3. ศึกษาการทำงานโค้ดพื้นฐานของโปรแกรม
 
 ![image](https://user-images.githubusercontent.com/80879398/113161993-14049c80-9269-11eb-839c-576bfaf72fd9.png)
 
-4.ใช้คำสั่ง pio run -t uplaod เพื่อให้โปรแกรมถูก upload เข้าไป
+4. ใช้คำสั่ง pio run -t uplaod เพื่อให้โปรแกรมถูก upload เข้าไป
 
-5.กดปุ่ม upload ค้างไว้ และกดปุ่ม reset ที่ microcontroller
+5. กดปุ่ม upload ค้างไว้ และกดปุ่ม reset ที่ microcontroller
 
-6.รอโปรแกรมถูก upload จนเสร็จสิ้น
+6. รอโปรแกรมถูก upload จนเสร็จสิ้น
 
-7.ใช้คำสั่ง pio device monitor
+7. ใช้คำสั่ง pio device monitor
 
-9.นำ microcontroller ไปต่อกับรีเลย์ และเสียบตัวจ่ายไฟเข้ากับรีเลย์
+8. นำ microcontroller ไปต่อกับรีเลย์ และเสียบตัวจ่ายไฟเข้ากับรีเลย์
 
-10.สังเกตผลการทดลอง
+9. สังเกตผลการทดลอง
 
 ## การบันทึกผลการทดลอง
 
